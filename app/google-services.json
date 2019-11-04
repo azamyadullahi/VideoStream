@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628287356455",
+    "firebase_url": "https://oxoo-tv.firebaseio.com",
+    "project_id": "oxoo-tv",
+    "storage_bucket": "oxoo-tv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628287356455:android:bfc6e6c0ccba096f",
+        "android_client_info": {
+          "package_name": "com.oxoo.spagreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628287356455-n09haiat1dk7r8h76jo8l8k9lmo9ic2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "dcdb087249ef134a7254353bb266cf500511a32b"
+          }
+        },
+        {
+          "client_id": "628287356455-feedmiflkss2ujc34sl5ef2kgtfrj05u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARid4WF5xhu8CFFILELZL06GEdmaotkvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628287356455-feedmiflkss2ujc34sl5ef2kgtfrj05u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
